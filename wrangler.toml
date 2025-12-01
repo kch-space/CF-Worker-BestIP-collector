@@ -1,7 +1,8 @@
-name = "CF-Worker-BestIP-collector"
+name = "bestip-collector"
 main = "_workers.js"
 compatibility_date = "2024-12-01"
 
 [[kv_namespaces]]
 binding = "IP_STORAGE"
 id = "6bfa98adedb44108885132cb0e2dabc3"
+
